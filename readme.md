@@ -21,7 +21,7 @@ embedded_example_file: "examples/Grove_Switch-P_minimal/Grove_Switch-P_minimal.i
 
 # Schalter
 
-![Schalter](./61_schalter.jpg)
+![Schalter](./61_schalter.png)
 
 ## Beschreibung
 Schalter sind eine sehr einfache Eingabemöglichkeit in Elektronik-Projekten. Sie haben einen Schaltmechanismus, der einen elektrischen Kontakt zwischen den Anschlusspins herstellt, sobald der Schalthebel auf eine Seite geschoben wird. Die vorliegenden Schalter sind bereits auf einer Platine vormontiert und lassen sich dadurch mit Standard-Grove-Verbindungskabeln und direkt mithilfe des Grove Shields an einen Arduino oder Raspberry Pi anschließen. Das Modul benötigt hierfür nur einen digitalen Pin.
