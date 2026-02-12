@@ -27,4 +27,3 @@ void loop(){
         Serial.println("switch low");
     }
 }
-```
